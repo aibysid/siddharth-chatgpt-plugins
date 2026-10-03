@@ -38,3 +38,8 @@ This public repository hosts official documentation, privacy policies, terms of 
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For support, feedback, or legal inquiries regarding these ChatGPT plugins, contact: [csiddharth233@gmail.com](mailto:csiddharth233@gmail.com).
+
